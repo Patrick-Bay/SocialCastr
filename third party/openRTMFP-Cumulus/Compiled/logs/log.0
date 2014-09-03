@@ -1,0 +1,173 @@
+13/02 21:24:49.3  NOTE	RTMFPServer(2544)	rtmfpserver.cpp[115]  RTMFP server starts on 1985 port
+13/02 21:31:57.5  NOTE	RTMFPServer(7152)	rtmfpserver.cpp[115]  RTMFP server starts on 1985 port
+13/02 21:37:55.3  NOTE	RTMFPServer(2712)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+13/02 21:38:07.3  INFO	RTMFPServer(2712)	rtmfpserver.cpp[364]  1 clients
+13/02 21:40:27.3  INFO	RTMFPServer(2712)	rtmfpserver.cpp[364]  2 clients
+13/02 21:42:05.3  INFO	RTMFPServer(2712)	rtmfpserver.cpp[364]  3 clients
+13/02 21:43:41.3  INFO	RTMFPServer(2712)	rtmfpserver.cpp[364]  4 clients
+13/02 21:45:10.0  WARN	RTMFPServer(2712)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 4
+13/02 21:45:10.0  WARN	RTMFPServer(2712)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 4
+13/02 21:45:10.0  WARN	RTMFPServer(2712)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 4
+13/02 21:45:11.4  INFO	RTMFPServer(2712)	rtmfpserver.cpp[364]  3 clients
+15/02 21:32:55.5  NOTE	RTMFPServer(1144)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+15/02 21:33:31.4  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 103ms
+15/02 22:26:10.6  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 53ms
+15/02 22:49:15.0  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 75ms
+15/02 22:54:48.2  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 22ms
+16/02 00:09:12.8  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 4041ms
+16/02 00:12:37.0  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 26ms
+16/02 00:19:25.2  INFO	RTMFPServer(1144)	rtmfpserver.cpp[364]  1 clients
+16/02 00:19:41.2  INFO	RTMFPServer(1144)	rtmfpserver.cpp[364]  0 clients
+16/02 00:22:58.4  INFO	RTMFPServer(1144)	rtmfpserver.cpp[364]  1 clients
+16/02 00:23:16.4  INFO	RTMFPServer(1144)	rtmfpserver.cpp[364]  0 clients
+16/02 00:40:20.0  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 34ms
+16/02 00:43:46.3  WARN	RTMFPServer(1144)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 35ms
+16/02 01:02:29.8  NOTE	RTMFPServer(5588)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+16/02 01:13:57.1  NOTE	RTMFPServer(4948)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+17/02 20:42:36.6  NOTE	RTMFPServer(6284)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+19/02 07:07:13.7  NOTE	RTMFPServer(6516)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+19/02 08:50:40.4  WARN	RTMFPServer(6516)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 46ms
+19/02 09:26:29.1  WARN	RTMFPServer(6516)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 65ms
+19/02 09:56:12.1  WARN	RTMFPServer(6516)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 28ms
+19/02 14:37:09.2  NOTE	RTMFPServer(6516)	rtmfpserver.cpp[132]  RTMFP server stops
+19/02 14:42:09.6  NOTE	RTMFPServer(2728)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+19/02 16:14:42.1  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 170ms
+19/02 17:16:27.2  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 29ms
+19/02 17:54:51.7  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 23ms
+19/02 18:55:56.7  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 321ms
+19/02 19:02:11.1  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 41ms
+19/02 19:04:03.6  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 35ms
+19/02 19:04:06.0  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 36ms
+19/02 19:27:22.8  WARN	RTMFPServer(2728)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 20ms
+20/02 08:11:25.4  NOTE	RTMFPServer(4208)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+20/02 08:25:47.7  WARN	RTMFPServer(4208)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 90ms
+20/02 10:00:56.8  WARN	RTMFPServer(4208)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 98ms
+07/03 19:44:25.7  NOTE	RTMFPServer(7068)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+07/03 19:46:53.7  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  1 clients
+07/03 19:55:07.7  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  0 clients
+07/03 19:59:03.8  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  1 clients
+07/03 20:00:23.8  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  0 clients
+07/03 20:02:35.8  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  1 clients
+07/03 20:04:03.8  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  0 clients
+07/03 20:10:07.9  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  1 clients
+07/03 20:10:45.9  INFO	RTMFPServer(7068)	rtmfpserver.cpp[364]  0 clients
+14/03 19:00:24.1  NOTE	RTMFPServer(7552)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+14/03 19:01:54.1  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 19:02:38.1  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 19:16:38.6  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 19:17:32.6  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 19:26:36.7  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 19:34:12.8  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 19:35:08.8  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 19:37:00.8  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 19:37:52.8  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 19:41:14.8  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 19:47:52.9  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 20:03:59.0  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 20:05:23.0  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 20:14:27.2  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 20:15:25.2  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 20:17:29.2  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 20:27:57.4  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 20:28:39.4  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 20:32:17.6  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  1 clients
+14/03 20:32:29.6  INFO	RTMFPServer(7552)	rtmfpserver.cpp[364]  0 clients
+14/03 20:36:57.7  NOTE	RTMFPServer(4660)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+14/03 20:41:37.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  1 clients
+14/03 20:41:59.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  0 clients
+14/03 20:43:51.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  1 clients
+14/03 20:46:03.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  0 clients
+14/03 20:47:39.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  1 clients
+14/03 20:48:17.8  INFO	RTMFPServer(4660)	rtmfpserver.cpp[364]  0 clients
+16/03 12:42:52.6  NOTE	RTMFPServer(7964)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+16/03 13:10:56.9  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:12:02.9  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  0 clients
+16/03 13:17:08.9  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:18:07.0  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  0 clients
+16/03 13:23:03.0  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  0 clients
+16/03 13:30:51.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  0 clients
+16/03 13:32:01.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:32:39.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:33:55.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:36:25.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:36:50.9  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 7
+16/03 13:36:51.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:38:55.1  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:39:52.1  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 8
+16/03 13:39:53.2  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:44:47.2  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:47:50.1  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 9
+16/03 13:47:50.1  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 9
+16/03 13:47:50.1  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 9
+16/03 13:47:51.2  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:49:01.2  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:52:10.6  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 10
+16/03 13:52:10.6  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 10
+16/03 13:52:10.6  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 10
+16/03 13:52:11.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:53:03.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:53:37.5  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 11
+16/03 13:53:37.5  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 11
+16/03 13:53:37.5  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 11
+16/03 13:53:39.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:54:37.3  WARN	RTMFPServer(7964)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 40ms
+16/03 13:57:05.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  2 clients
+16/03 13:57:38.8  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 12
+16/03 13:57:38.8  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 12
+16/03 13:57:38.8  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 12
+16/03 13:57:39.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  1 clients
+16/03 13:57:39.9  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 5 has failed : flowWriter rejected on session 6
+16/03 13:57:39.9  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 6
+16/03 13:57:39.9  WARN	RTMFPServer(7964)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 6
+16/03 13:57:41.3  INFO	RTMFPServer(7964)	rtmfpserver.cpp[364]  0 clients
+16/03 13:57:46.4  NOTE	RTMFPServer(7964)	rtmfpserver.cpp[132]  RTMFP server stops
+21/03 14:02:53.6  NOTE	RTMFPServer(4724)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+21/03 14:04:39.6  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  1 clients
+21/03 14:06:13.6  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  2 clients
+21/03 14:07:08.3  WARN	RTMFPServer(4724)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 2
+21/03 14:07:08.3  WARN	RTMFPServer(4724)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 2
+21/03 14:07:09.7  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  1 clients
+21/03 14:07:11.7  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  0 clients
+21/03 14:07:23.7  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  1 clients
+21/03 14:08:51.7  INFO	RTMFPServer(4724)	rtmfpserver.cpp[364]  0 clients
+21/03 19:10:45.8  NOTE	RTMFPServer(6164)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+21/03 19:12:03.8  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  1 clients
+21/03 19:23:59.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  0 clients
+21/03 19:25:13.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  1 clients
+21/03 19:26:35.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  2 clients
+21/03 19:27:29.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  1 clients
+21/03 19:27:33.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  2 clients
+21/03 19:31:49.9  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  1 clients
+21/03 19:33:57.3  WARN	RTMFPServer(6164)	flowwriter.cpp[75]  FlowWriter 4 has failed : flowWriter rejected on session 3
+21/03 19:33:57.3  WARN	RTMFPServer(6164)	flowwriter.cpp[75]  FlowWriter 3 has failed : flowWriter rejected on session 3
+21/03 19:33:58.0  INFO	RTMFPServer(6164)	rtmfpserver.cpp[364]  0 clients
+04/04 18:14:07.5  NOTE	RTMFPServer(4704)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+04/04 18:23:42.5  NOTE	RTMFPServer(6764)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+04/04 18:24:03.1  NOTE	RTMFPServer(5956)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port
+04/04 18:56:21.7  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 18:57:17.7  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 18:58:27.7  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 18:58:49.7  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 18:59:55.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:00:17.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:00:17.9  WARN	RTMFPServer(5956)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 23ms
+04/04 19:02:15.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:02:41.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:02:51.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:02:53.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:04:27.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:04:35.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:06:15.9  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:06:35.9  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:38:58.4  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:40:00.4  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 19:55:16.6  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 19:59:22.7  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 20:01:24.8  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 20:03:06.9  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 20:04:26.9  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  1 clients
+04/04 20:22:37.1  INFO	RTMFPServer(5956)	rtmfpserver.cpp[364]  0 clients
+04/04 21:06:06.5  WARN	RTMFPServer(5956)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 20ms
+04/04 21:06:48.6  WARN	RTMFPServer(5956)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 23ms
+04/04 21:08:31.1  WARN	RTMFPServer(5956)	rtmfpserver.cpp[360]  Process management has lasted more than 20ms : 40ms
+13/04 16:03:10.8  NOTE	RTMFPServer(7116)	rtmfpserver.cpp[115]  RTMFP server starts on 1935 port

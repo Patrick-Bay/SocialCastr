@@ -1,0 +1,115 @@
+﻿Build started 12/02/2012 11:58:45 AM.
+     1>Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusLib\CumulusLib.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "tmp/release\CumulusLib.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Iinclude /I../External/include /nologo /W3 /WX- /O2 /Ob1 /Oi /Ot /Oy /D WIN32 /D NDEBUG /D CUMULUS_LOGS /D STATIC /D _MBCS /GF /Gm- /EHsc /MT /GS- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"tmp/release\\" /Fd"tmp/release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt sources\AMFSimpleObject.cpp sources\Client.cpp sources\Cumulus.cpp sources\AMFObjectWriter.cpp sources\AMFReader.cpp sources\AMFWriter.cpp sources\BinaryReader.cpp sources\BinaryStream.cpp sources\BinaryWriter.cpp sources\Edges.cpp sources\EdgeSession.cpp sources\Invoker.cpp sources\MemoryStream.cpp sources\PacketReader.cpp sources\PacketWriter.cpp sources\Address.cpp sources\RTMFPServerEdge.cpp sources\ServerConnection.cpp sources\ServerSession.cpp sources\Startable.cpp sources\Util.cpp sources\AESEngine.cpp sources\Entity.cpp sources\Group.cpp sources\Peer.cpp sources\RTMFP.cpp sources\RTMFPServer.cpp sources\Logs.cpp sources\Cookie.cpp sources\Handshake.cpp sources\Session.cpp sources\Sessions.cpp sources\Flow.cpp sources\FlowConnection.cpp sources\FlowGroup.cpp sources\FlowNull.cpp sources\FlowStream.cpp sources\FlowWriter.cpp sources\Message.cpp sources\Trigger.cpp sources\Listener.cpp sources\Publication.cpp sources\Publications.cpp sources\QualityOfService.cpp sources\Streams.cpp sources\Middle.cpp sources\Target.cpp
+         AMFSimpleObject.cpp
+         Client.cpp
+         Cumulus.cpp
+         AMFObjectWriter.cpp
+         AMFReader.cpp
+         AMFWriter.cpp
+         BinaryReader.cpp
+         BinaryStream.cpp
+         BinaryWriter.cpp
+         Edges.cpp
+         EdgeSession.cpp
+         Invoker.cpp
+         MemoryStream.cpp
+         PacketReader.cpp
+         PacketWriter.cpp
+         Address.cpp
+         RTMFPServerEdge.cpp
+         ServerConnection.cpp
+         ServerSession.cpp
+         Startable.cpp
+         Generating Code...
+         Compiling...
+         Util.cpp
+         AESEngine.cpp
+         Entity.cpp
+         Group.cpp
+         Peer.cpp
+         RTMFP.cpp
+         RTMFPServer.cpp
+         Logs.cpp
+         Cookie.cpp
+         Handshake.cpp
+         Session.cpp
+         Sessions.cpp
+         Flow.cpp
+         FlowConnection.cpp
+         FlowGroup.cpp
+         FlowNull.cpp
+         FlowStream.cpp
+         FlowWriter.cpp
+         Message.cpp
+         Trigger.cpp
+         Generating Code...
+         Compiling...
+         Listener.cpp
+         Publication.cpp
+         Publications.cpp
+         QualityOfService.cpp
+         Streams.cpp
+         Middle.cpp
+         Target.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\Lib.exe /OUT:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusLib\lib/\CumulusLib.lib" /NOLOGO tmp/release\AMFSimpleObject.obj
+         tmp/release\Client.obj
+         tmp/release\Cumulus.obj
+         tmp/release\AMFObjectWriter.obj
+         tmp/release\AMFReader.obj
+         tmp/release\AMFWriter.obj
+         tmp/release\BinaryReader.obj
+         tmp/release\BinaryStream.obj
+         tmp/release\BinaryWriter.obj
+         tmp/release\Edges.obj
+         tmp/release\EdgeSession.obj
+         tmp/release\Invoker.obj
+         tmp/release\MemoryStream.obj
+         tmp/release\PacketReader.obj
+         tmp/release\PacketWriter.obj
+         tmp/release\Address.obj
+         tmp/release\RTMFPServerEdge.obj
+         tmp/release\ServerConnection.obj
+         tmp/release\ServerSession.obj
+         tmp/release\Startable.obj
+         tmp/release\Util.obj
+         tmp/release\AESEngine.obj
+         tmp/release\Entity.obj
+         tmp/release\Group.obj
+         tmp/release\Peer.obj
+         tmp/release\RTMFP.obj
+         tmp/release\RTMFPServer.obj
+         tmp/release\Logs.obj
+         tmp/release\Cookie.obj
+         tmp/release\Handshake.obj
+         tmp/release\Session.obj
+         tmp/release\Sessions.obj
+         tmp/release\Flow.obj
+         tmp/release\FlowConnection.obj
+         tmp/release\FlowGroup.obj
+         tmp/release\FlowNull.obj
+         tmp/release\FlowStream.obj
+         tmp/release\FlowWriter.obj
+         tmp/release\Message.obj
+         tmp/release\Trigger.obj
+         tmp/release\Listener.obj
+         tmp/release\Publication.obj
+         tmp/release\Publications.obj
+         tmp/release\QualityOfService.obj
+         tmp/release\Streams.obj
+         tmp/release\Middle.obj
+         tmp/release\Target.obj
+         CumulusLib.vcxproj -> C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusLib\lib/\CumulusLib.lib
+       FinalizeBuildStatus:
+         Deleting file "tmp/release\CumulusLib.unsuccessfulbuild".
+         Touching "tmp/release\CumulusLib.lastbuildstate".
+     1>Done Building Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusLib\CumulusLib.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:57.45

@@ -1,0 +1,36 @@
+﻿Sauce Freeware Licence
+
+
+
+1. This font is free for personal and commercial use.
+
+
+2. No part of the font or its code may be passed on in any case. 
+Instead, you are welcome to pass on the download address, 
+which is sauce.nl/downloads/type/SurfaceMedium.zip
+
+
+3. The font may be modified to suit design or system  
+requirements strictly for your own (personal or commercial) use.  
+You may not sell or distrubute it thereafter.
+
+
+4. Embedding (in PDF's, Flash files and programs) is allowed.
+
+
+5. Using this font for a @font-face declaration is allowed, but only if  
+a readable link to my homepage is put on every page where this font is  
+used. This link may be the size of a regular copyright notice.
+
+
+6. This font may not be distributed or sold online nor on any  
+media- without my writen permission
+
+
+7. This font is and remains (even when modified) the intellectual  
+property of Bruno Herfst.
+
+
+8. Sauce (Bruno Herfst) is not liable for any damage resulting from  
+the use of this font.
+

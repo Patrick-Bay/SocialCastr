@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<application>Broadcastr</application>	
+	<emulate>native</emulate>
+	<tooltips>on</tooltips>
+	<!-- use ";" to split debugging levels, use Settings.isDebugLevelSet("network"); (for example) to see if setting is set -->
+	<debug>network</debug>
+	<version>0.93b</version>
+	<menus>
+		<menu group="main" x="0" y="20" text="( CLICK ME )" tip="">			
+			<button text="Channel Setup" tip="" panel="channel_setup" />
+			<button text="Broadcast Setup" tip="" panel="broadcast_setup" />
+			<button text="Start Broadcast" tip="" panel="broadcast" />		
+			<button text="Identity" tip="" panel="identity" />	
+		</menu>
+	</menus>
+	<panels start="" silentstart="debug_panel">		
+		<panel 
+			name="Debug Panel" 
+			id="debug_panel" 
+			class="socialcastr.ui.panels.DebugPanel" 
+			shortcut="d" 
+			show="bottom" 
+			x="0" 
+			y="0" 
+			modal="false" 
+			panelup="%previous%" />		
+		<panel 
+			name="Channel Setup Panel" 
+			id="channel_setup" 
+			class="socialcastr.ui.panels.ChannelSetupPanel" 
+			show="right" 
+			x="0" 
+			y="0" 
+			panelup="channel_setup_help"
+			paneldown="%previous%" />	
+		<panel 
+			name="Channel Setup Help Panel" 
+			id="channel_setup_help" 
+			class="socialcastr.ui.panels.ChannelSetupHelpPanel" 
+			show="fromtop" 
+			x="0" 
+			y="0" 
+			paneldown="%previous%"	/>
+		<panel 
+			name="Broadcast Setup Panel" 
+			id="broadcast_setup" 
+			class="socialcastr.ui.panels.BroadcastSetupPanel" 
+			show="fromright" 
+			x="0" 
+			y="0" 
+			panelleft="%previous%">
+      		<settings>
+        		<cam0/>
+        		<mic0/>
+        		<camres0><![CDATA[320x240]]></camres0>
+        		<camfps0><![CDATA[18]]></camfps0>
+        		<losslessVideo><![CDATA[false]]></losslessVideo>
+        		<losslessAudio><![CDATA[false]]></losslessAudio>
+      		</settings>
+    	</panel>
+		<panel 
+			name="Broadcast Panel" 
+			id="broadcast" 
+			class="socialcastr.ui.panels.BroadcastPanel" 
+			show="right" 
+			x="0" 
+			y="0" 
+			panelup="channel_setup">
+			<displays>
+				<local id="default_local" x="105" y="" width="480" height="360" />
+			</displays>
+		</panel>
+		<panel 
+			name="Identity Panel" 
+			id="id" 
+			class="socialcastr.ui.panels.IdentityPanel" 
+			show="fromtop" 
+			x="0" 
+			y="0" 
+			paneldown="%previous%" />	
+		<panel 
+			name="Identity Panel" 
+			id="identity" 
+			class="socialcastr.ui.panels.IdentityPanel" 
+			show="top" 
+			x="0" 
+			y="0" />	
+		<panel 
+			name="Notification Panel" 
+			id="notification" 
+			class="socialcastr.ui.panels.NotificationPanel" 
+			show="left" 
+			x="0" 
+			y="0" />			
+		<panel 
+			name="Credits Panel" 
+			id="credits" 
+			class="socialcastr.ui.panels.CreditsPanel" 
+			show="top" 
+			x="0" 
+			y="0" />					
+	</panels>
+</settings>

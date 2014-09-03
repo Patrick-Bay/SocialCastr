@@ -1,0 +1,49 @@
+﻿Build started 12/02/2012 12:03:31 PM.
+     1>Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\CumulusServer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "tmp/debug\CumulusServer.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\debug\CumulusServer.exe" /INCREMENTAL /NOLOGO /LIBPATH:../External/lib /LIBPATH:../CumulusLib/lib lua5.1.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"tmp/debug\CumulusServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\debug\CumulusServer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\debug\CumulusServer.lib" /MACHINE:X86 tmp/debug\CumulusServer.exe.embed.manifest.res
+         tmp/debug\Blacklist.obj
+         tmp/debug\FileWatcher.obj
+         tmp/debug\LUAAMFObjectWriter.obj
+         tmp/debug\LUAByteReader.obj
+         tmp/debug\LUAByteWriter.obj
+         tmp/debug\LUAClient.obj
+         tmp/debug\LUAClients.obj
+         tmp/debug\LUAEdges.obj
+         tmp/debug\LUAFlowWriter.obj
+         tmp/debug\LUAGroup.obj
+         tmp/debug\LUAGroups.obj
+         tmp/debug\LUAInvoker.obj
+         tmp/debug\LUAListener.obj
+         tmp/debug\LUAListeners.obj
+         tmp/debug\LUAPublication.obj
+         tmp/debug\LUAPublications.obj
+         tmp/debug\LUAQualityOfService.obj
+         tmp/debug\LUATCPClient.obj
+         tmp/debug\main.obj
+         tmp/debug\Script.obj
+         tmp/debug\Server.obj
+         tmp/debug\Service.obj
+         tmp/debug\SocketManager.obj
+         tmp/debug\TCPClient.obj
+     1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"tmp/debug\CumulusServer.exe.embed.manifest" /manifest tmp/debug\CumulusServer.exe.intermediate.manifest
+         All outputs are up-to-date.
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         CumulusServer.vcxproj -> C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\debug\CumulusServer.exe
+       FinalizeBuildStatus:
+         Deleting file "tmp/debug\CumulusServer.unsuccessfulbuild".
+         Touching "tmp/debug\CumulusServer.lastbuildstate".
+     1>Done Building Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\CumulusServer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.93

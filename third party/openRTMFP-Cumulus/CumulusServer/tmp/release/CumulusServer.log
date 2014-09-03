@@ -1,0 +1,42 @@
+﻿Build started 12/02/2012 12:01:02 PM.
+     1>Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\CumulusServer.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "tmp/release\CumulusServer.unsuccessfulbuild".
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\release\CumulusServer.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:../External/lib /LIBPATH:../CumulusLib/lib lua5.1.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"tmp/release\CumulusServer.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\release\CumulusServer.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\release\CumulusServer.lib" /MACHINE:X86 tmp/release\Blacklist.obj
+         tmp/release\FileWatcher.obj
+         tmp/release\LUAAMFObjectWriter.obj
+         tmp/release\LUAByteReader.obj
+         tmp/release\LUAByteWriter.obj
+         tmp/release\LUAClient.obj
+         tmp/release\LUAClients.obj
+         tmp/release\LUAEdges.obj
+         tmp/release\LUAFlowWriter.obj
+         tmp/release\LUAGroup.obj
+         tmp/release\LUAGroups.obj
+         tmp/release\LUAInvoker.obj
+         tmp/release\LUAListener.obj
+         tmp/release\LUAListeners.obj
+         tmp/release\LUAPublication.obj
+         tmp/release\LUAPublications.obj
+         tmp/release\LUAQualityOfService.obj
+         tmp/release\LUATCPClient.obj
+         tmp/release\main.obj
+         tmp/release\Script.obj
+         tmp/release\Server.obj
+         tmp/release\Service.obj
+         tmp/release\SocketManager.obj
+         tmp/release\TCPClient.obj
+         CumulusServer.vcxproj -> C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\release\CumulusServer.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\release\CumulusServer.exe;#1" /manifest tmp/release\CumulusServer.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "tmp/release\CumulusServer.unsuccessfulbuild".
+         Touching "tmp/release\CumulusServer.lastbuildstate".
+     1>Done Building Project "C:\Users\Patrick\Desktop\CumulusServer Source\OpenRTMFP-Cumulus-b6a751f\CumulusServer\CumulusServer.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.50

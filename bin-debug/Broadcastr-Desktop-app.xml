@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<application xmlns="http://ns.adobe.com/air/application/3.2">
+  <id>com.socialcastr.Broadcastr</id>
+  <versionNumber>0.93</versionNumber>
+  <filename>Broadcastr-for-Desktop</filename>
+  <description>Be. Broadcast.</description>
+<!-- To localize the description, use the following format for the description element.<description><text xml:lang="en">English App description goes here</text><text xml:lang="fr">French App description goes here</text><text xml:lang="ja">Japanese App description goes here</text></description>-->
+  <name>Broadcastr-for-Desktop</name>
+<!-- To localize the name, use the following format for the name element.<name><text xml:lang="en">English App name goes here</text><text xml:lang="fr">French App name goes here</text><text xml:lang="ja">Japanese App name goes here</text></name>-->
+  <copyright>(C)opyright 2012 Patrick Bay, SocialCastr.</copyright>
+  <initialWindow>
+    <content>Broadcastr-Desktop.swf</content>
+    <systemChrome>none</systemChrome>
+    <transparent>true</transparent>
+    <visible>true</visible>
+    <fullScreen>false</fullScreen>
+    <aspectRatio>portrait</aspectRatio>
+    <renderMode>auto</renderMode>
+    <maximizable>false</maximizable>
+    <minimizable>true</minimizable>
+    <resizable>false</resizable>
+  </initialWindow>
+  <icon>
+    <image16x16>AppIconsForPublish/sc_logo_gs_16x16.png</image16x16>
+    <image32x32>AppIconsForPublish/sc_logo_gs_32x32.png</image32x32>
+    <image48x48>AppIconsForPublish/sc_logo_gs_48x48.png</image48x48>
+    <image128x128>AppIconsForPublish/sc_logo_gs_128x128.png</image128x128>
+  </icon>
+  <customUpdateUI>false</customUpdateUI>
+  <allowBrowserInvocation>false</allowBrowserInvocation>
+  <supportedProfiles>desktop extendedDesktop </supportedProfiles>
+</application>

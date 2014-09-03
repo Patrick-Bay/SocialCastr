@@ -1,0 +1,295 @@
+﻿Broadcastr-Desktop.swf Movie Report
+------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1170    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:MetadataDate>2014-09-02T16:48:42-04:00</xmp:MetadataDate> <xmp:ModifyDate>2014-09-02T16:48:42-04:00</xmp:ModifyDate> <xmp:Rating>5</xmp:Rating> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:AE6A9F48E232E411B8829AF3E5DF6251</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:AE6A9F48E232E411B8829AF3E5DF6251</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:480B763A6C57E11193DEC6981CA94A63</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:AB6A9F48E232E411B8829AF3E5DF6251</stRef:instanceID> <stRef:documentID>xmp.did:50A5BC1D1367E111B3EBEA40C76C9F61</stRef:documentID> <stRef:originalDocumentID>xmp.did:480B763A6C57E11193DEC6981CA94A63</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> <dc:title> <rdf:Alt> <rdf:li xml:lang="x-default">SocialCastr Broadcastr</rdf:li> </rdf:Alt> </dc:title> <dc:creator> <rdf:Seq> <rdf:li>Patrick Bay</rdf:li> </rdf:Seq> </dc:creator> <dc:description> <rdf:Alt> <rdf:li xml:lang="x-default">Be. Broadcast.</rdf:li> </rdf:Alt> </dc:description> <dc:subject> <rdf:Bag> <rdf:li>socialcastr</rdf:li> <rdf:li>sharing</rdf:li> <rdf:li>stream</rdf:li> <rdf:li>streaming</rdf:li> <rdf:li>video</rdf:li> <rdf:li>audio</rdf:li> <rdf:li>broadcast</rdf:li> <rdf:li>broadcastr</rdf:li> <rdf:li>rtmfp</rdf:li> <rdf:li>p2p</rdf:li> <rdf:li>peer to peer</rdf:li> </rdf:Bag> </dc:subject> <dc:rights> <rdf:Alt> <rdf:li xml:lang="x-default">(C)opyright 2011 Patrick Bay</rdf:li> </rdf:Alt> </dc:rights> </rdf:Description> <rdf:Description rdf:about="" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"> <photoshop:AuthorsPosition>Founder</photoshop:AuthorsPosition> <photoshop:CaptionWriter>Patrick Bay</photoshop:CaptionWriter> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"> <xmpRights:Marked>True</xmpRights:Marked> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         338251         338251    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                239045
+
+Symbol                                           Shape Bytes    Text Bytes    ActionScript Bytes
+---------------------------------------------    -----------    ----------    ------------------
+SocialCastR Logo                                           0             0                     0
+"Castr"                                                    0             0                     0
+"Social"                                                   0             0                     0
+Broadcast Setup Panel background                           0             0                     0
+Generic panel background                                   0             0                     0
+IDPanel background                                        59             0                     0
+Rounded button face                                       45             0                     0
+Rounded Input Field Button (edit animation)                0             0                     0
+Rounded Input Field Button (onEdit animation)              0             0                     0
+Rounded Input Field Button (over animation)                0             0                     0
+Rounded Input Field Button (up animation)                  0             0                     0
+Symbol 1                                                   0             0                     0
+Symbol 2                                                   0             0                     0
+TextInput background                                      28             0                     0
+Tween 1                                                    0             0                     0
+Tween 2                                                    0             0                     0
+Tween 3                                                    0             0                     0
+BroadcastSetupHelpButton                                   0           101                     0
+CloseButtonIcon                                          134             0                     0
+LoadFromDiskButton                                         0             0                     0
+LoadFromDiskIcon                                          34             0                     0
+Logo animation "C" path mask                              18             0                     0
+Logo dot (green)                                          63             0                     0
+Logo large wave, colour                                   65             0                     0
+Tween 4                                                 2285             0                     0
+MinimizeButton icon                                      121             0                     0
+ProfileImage Mask                                         31             0                     0
+ProfileImagePlaceholder                                   20             0                     0
+Tooltip Background                                        44             0                     0
+Tween 5                                                    0             0                     0
+Tween 6                                                   84             0                     0
+Tween 7                                                   61             0                     0
+Tween 8                                                  148             0                     0
+Tween 9                                                   92             0                     0
+Tween 10                                                   0             0                     0
+Tween 11                                                   0             0                     0
+Tween 12                                                   0             0                     0
+Tween 13                                                 438             0                     0
+Tween 14                                                 438             0                     0
+WebcamButton                                               0             0                     0
+WebcamIcon                                                34             0                     0
+Loading Arrow                                              0             0                     0
+Loading Arrow Animation                                    0             0                     0
+socialcastr.ui.components.CloseButton                      0             0                     0
+socialcastr.ui.components.IntroAnimation                1489             0                     0
+socialcastr.ui.components.LoadingIndicator                 0            89                     0
+Graphic Logo "C" (B&W) - middle aligned                   50             0                     0
+Graphic Logo broadcast waves (B&W)                         0             0                     0
+socialcastr.ui.components.MinimizeButton                   0             0                     0
+socialcastr.ui.components.Tooltip                          0            37                     0
+AcceptButton                                               0             0                     0
+AcceptButton graphic                                       0             0                     0
+Button                                                     0             0                     0
+Button_disabledSkin                                      154             0                     0
+Button_downSkin                                          181             0                     0
+Button_emphasizedSkin                                     93             0                     0
+Button_overSkin                                          168             0                     0
+Button_selectedDisabledSkin                              139             0                     0
+Button_selectedDownSkin                                  137             0                     0
+Button_selectedOverSkin                                  138             0                     0
+Button_selectedUpSkin                                    138             0                     0
+Button_upSkin                                            187             0                     0
+focusRectSkin                                             65             0                     0
+Component_avatar                                          21             0                     0
+CheckBox                                                   0             0                     0
+CheckBox_upIcon                                            0             0                     0
+CheckBox_overIcon                                          0             0                     0
+CheckBox_downIcon                                          0             0                     0
+CheckBox_disabledIcon                                     90             0                     0
+CheckBox_selectedUpIcon                                   68             0                     0
+CheckBox_selectedOverIcon                                 69             0                     0
+CheckBox_selectedDownIcon                                 69             0                     0
+CheckBox_selectedDisabledIcon                             71             0                     0
+ComboBox                                                   0             0                     0
+ComboBox_upSkin                                          171             0                     0
+ComboBox_disabledSkin                                    171             0                     0
+ComboBox_overSkin                                        202             0                     0
+ComboBox_downSkin                                        201             0                     0
+TextInput                                                  0             0                     0
+List                                                       0             0                     0
+AccordionMenuButton (face graphic)                        27             0                     0
+CellRenderer                                               0             0                     0
+CellRenderer_disabledSkin                                 59             0                     0
+CellRenderer_downSkin                                     57             0                     0
+CellRenderer_overSkin                                     57             0                     0
+CellRenderer_upSkin                                       43             0                     0
+CellRenderer_selectedDisabledSkin                         72             0                     0
+CellRenderer_selectedDownSkin                             57             0                     0
+CellRenderer_selectedOverSkin                             90             0                     0
+CellRenderer_selectedUpSkin                               43             0                     0
+CheckBox_selectedIcon                                     23             0                     0
+Highlights                                                34             0                     0
+List_skin                                                 64             0                     0
+ScrollBar                                                  0             0                     0
+ScrollTrack_skin                                          41             0                     0
+ScrollArrowUp_downSkin                                    71             0                     0
+ScrollArrowDown_downSkin                                  70             0                     0
+ScrollThumb_downSkin                                     104             0                     0
+ScrollArrowDown_overSkin                                  70             0                     0
+ScrollThumb_overSkin                                     104             0                     0
+ScrollArrowUp_overSkin                                    70             0                     0
+ScrollArrowUp_upSkin                                      63             0                     0
+ScrollThumb_upSkin                                       105             0                     0
+ScrollArrowDown_upSkin                                    70             0                     0
+ScrollArrowDown_disabledSkin                               0             0                     0
+ScrollArrowUp_disabledSkin                                71             0                     0
+ScrollBar_thumbIcon                                        0             0                     0
+ScrollArrowDown_icon                                       0             0                     0
+arrowIcon                                                 27             0                     0
+ScrollArrowUp_icon                                         0             0                     0
+Scrollbar Thumb up-down arrows                             0             0                     0
+Text Field Error Display                                   0             0                     0
+Text Field Error Display Background                        0             0                     0
+TextArea                                                   0             0                     0
+TextArea_disabledSkin                                     68             0                     0
+TextArea_upSkin                                           62             0                     0
+UIScrollBar                                                0             0                     0
+TextInput_disabledSkin                                     0             0                     0
+TextInput_upSkin                                           0             0                     0
+Background Placeholder 2                                  27             0                     0
+BroadcastSetupPanel icon                                   0             0                     0
+AccordionMenuButton (face graphic)                        27             0                     0
+<Clip Group 0>_1                                           0             0                     0
+<Clip Group 0>_1_0                                        23             0                     0
+<Clip Group 0>_12                                          0             0                     0
+<Clip Group 0>_13                                        110             0                     0
+<Clip Group 0>_14                                         76             0                     0
+<Clip Group 0>_15                                          0             0                     0
+<Clip Group 0>_16                                        110             0                     0
+<Clip Group 0>_17                                         64             0                     0
+<Clip Group 0>_20                                         63             0                     0
+<Clip Group 0>_38                                         69             0                     0
+<Clip Group 0>_39                                         69             0                     0
+<Clip Group 0>_40                                          0             0                     0
+<Clip Group 0>_41                                         32             0                     0
+<Clip Group 0>_42                                         28             0                     0
+<Clip Group 0>_43                                         54             0                     0
+<Clip Group 0>_44                                          0             0                     0
+<Clip Group 0>_45                                          0             0                     0
+<Clip Group 0>_46                                          0             0                     0
+<Clip Group 0>_47                                         17             0                     0
+<Clip Group 0>_48                                         34             0                     0
+<Clip Group 0>_49                                          0             0                     0
+<Clip Group 0>_50                                         38             0                     0
+<Clip Group 0>_51                                         54             0                     0
+<Clip Group 0>_52                                         28             0                     0
+<Clip Group 0>_53                                          0             0                     0
+<Clip Group 0>_54                                          0             0                     0
+<Clip Group 0>_55                                         30             0                     0
+<Clip Group 0>_59                                          0             0                     0
+<Clip Group 0>_60                                          0             0                     0
+<Clip Group 0>_61                                         35             0                     0
+<Clip Group 0>_62                                          0             0                     0
+<Clip Group 0>_63                                         61             0                     0
+<Clip Group 0>_64                                         84             0                     0
+<Group>                                                    0             0                     0
+<Group>_1                                                  0             0                     0
+<Group>_3                                                  0             0                     0
+<Group>_4                                                  0             0                     0
+<Group>_5                                                  0             0                     0
+<Group>_6                                                  0             0                     0
+<Group>_7                                                  0             0                     0
+<Group>_8                                                  0             0                     0
+<Group>_9                                                  0             0                     0
+<Group>_10                                                 0             0                     0
+<Group>_11                                                 0             0                     0
+<Group>_12                                                 0             0                     0
+<Group>_13                                                 0             0                     0
+<Group>_14                                                 0             0                     0
+<Group>_22                                                 0             0                     0
+<Group>_24                                                 0             0                     0
+<Group>_25                                                 0             0                     0
+SocialCastr large broadcast wave                         151             0                     0
+SocialCastr small broadcast wave                         142             0                     0
+SocialCastr broadcast dot                                 49             0                     0
+Opaque screen                                              0             0                     0
+scan lines                                                 0             0                     0
+GoBackButton                                               0            90                     0
+OkayButton                                                 0            87                     0
+RefuseButton                                               0            92                     0
+Rounded Button                                             0             0                     0
+socialcastr.ui.components.AccordionMenuButton              0           175                     0
+socialcastr.ui.components.WindowDragBar                  236             0                     0
+socialcastr.ui.input.TextInput                             0             0                     0
+Update Profile Image button                               86            99                     0
+Video Chat Connect Button                                  0             0                     0
+Video Chat Disconnect Button                               0             0                     0
+"CLICK HERE..." text                                       0             0                     0
+AudioBroadcastButton                                    2166             0                     0
+Button gloss highlights                                    0             0                     0
+Tween 4                                                 2285             0                     0
+Lens (graphic animation)                                   0             0                     0
+Tween 2                                                    0             0                     0
+Tween 1                                                    0             0                     0
+Combined lens 2                                            0             0                     0
+Blue specular lens                                         0             0                     0
+Broadcast button globe graphic (PNG)                       0             0                     0
+Broadcast Button Rounded Text                           1307             0                     0
+Broadcast Setup form backgrounds                          84             0                     0
+BroadcastSetupPanel image placeholder                      0             0                     0
+BroadcastSetupPanel image placeholder graphic              0             0                     0
+clipboard graphic                                          0             0                     0
+clipboardButton                                           18             0                     0
+Disconnect Button Face                                     0             0                     0
+<Clip Group 0>                                             0             0                     0
+path3721                                                   0             0                     0
+path3728                                                   0             0                     0
+path3735                                                   0             0                     0
+path3742                                                   0             0                     0
+path4102                                                   0             0                     0
+path7697                                                   0             0                     0
+rect2536                                                   0             0                     0
+rect2965                                                   0             0                     0
+rect7282                                                  23             0                     0
+rect7284                                                  23             0                     0
+rect7286                                                  23             0                     0
+rect12614                                                 32             0                     0
+rect14159                                                  0             0                     0
+Globe symbol                                            2521             0                     0
+Left Plug (male) icon                                    253             0                     0
+Left plug colour cycle animation                           0             0                     0
+Lens (symbol)                                              0             0                     0
+PlugButton                                               424             0                     0
+Right Plug (female) icon                                   0             0                     0
+Right plug colour cycle animation                          0             0                     0
+Sizeable Rounded Display Mask                             38             0                     0
+socialcastr.ui.components.ProfileImage                     0            39                     0
+socialcastr.ui.components.RadioTowerIcon                  21             0                     0
+Waves                                                    203             0                     0
+Tower                                                    134             0                     0
+socialcastr.ui.panels.VideoDisplay                         0             0                     0
+Tween 5                                                    0             0                     0
+Tween 6                                                   84             0                     0
+Video-Globe Icon                                         380            87                     0
+Video Chat Connect Button                                  0             0                     0
+VideoBroadcastButton                                     202             0                     0
+socialcastr.ui.panels.BroadcastPanel                       0             0                     0
+socialcastr.ui.panels.BroadcastSetupPanel                  0          1071                     0
+socialcastr.ui.panels.ChannelSetupHelpPanel             3141           573                     0
+socialcastr.ui.panels.ChannelSetupPanel                   62           909                     0
+socialcastr.ui.panels.CreditsPanel                         0           256                     0
+socialcastr.ui.panels.DebugPanel                           0             0                     0
+socialcastr.ui.panels.IdentityPanel                        0           376                     0
+socialcastr.ui.panels.NotificationPanel                    0            39                     0
+socialcastr.ui.panels.VideoChatConfirmPanel                0             0                     0
+socialcastr.ui.panels.VideoChatPanel                       0             0                     0
+socialcastr.ui.panels.WelcomePanel                         0             0                     0
+fl.core.ComponentShim                                      0             0                     0
+
+
+Tweened Shapes: 353 bytes
+
+Font Name         Bytes         Characters
+--------------    ----------    ----------
+CenturyGothic           1357     EFIPRSUadefgilmoprt 
+Surface-Medium         15486     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+Cabin-Regular           5953     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ˆ˜–—‘’‚“”„†‡•…‰‹›€™
+
+ActionScript Bytes    Location
+------------------    --------
+            239045    Scene 1:Frame 1
+
+Bitmap                    Compressed    Original      Compression
+----------------------    ----------    ----------    -----------
+view_pim_tasks.png               915          4096    JPEG Quality=100
+button_ok.png                    194          1936    Lossless
+path4102_0                       201          1984    JPEG Quality=100
+rect2536_0                       166           512    JPEG Quality=100
+preferences_system.png          7221         65536    JPEG Quality=100
+<Image>_0                      13487        891036    JPEG Quality=100
+Upload_48x48.png                1320          9216    JPEG Quality=100
+web_camera.png                  1464          9216    JPEG Quality=100
+
+
+
+

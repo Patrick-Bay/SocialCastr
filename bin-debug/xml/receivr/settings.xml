@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<application>Receivr</application>	
+	<emulate>native</emulate>
+	<tooltips>on</tooltips>
+	<debug>network</debug>
+	<version>0.93b</version>
+	<parameters>
+		<parameter name="default" value="" />
+	</parameters>
+	<menus>
+		<menu group="main" x="0" y="20" text="( CLICK ME )" tip="">						
+			<button text="Channel List" tip="" panel="channel_list" />			
+			<button text="Channel Player" tip="" panel="channel_player" />
+		</menu>
+	</menus>
+	<panels start="" silentstart="debug_panel">
+		<panel 
+			name="Debug Panel" 
+			id="debug_panel" 
+			class="socialcastr.ui.panels.DebugPanel" 
+			shortcut="d" 
+			show="bottom" 
+			x="0" 
+			y="0" 
+			modal="false" 
+			panelup="%previous%" />
+		<panel 
+			name="Channel List" 
+			id="channel_list" 
+			class="socialcastr.ui.panels.ChannelListPanel" 
+			shortcut="l" 
+			show="top" 
+			x="0" 
+			y="0"
+			modal="false">
+				<list x="170" y="70" width="400" height="380" />
+		</panel>	
+		<panel 
+			name="Channel Player" 
+			id="channel_player" 
+			class="socialcastr.ui.panels.ChannelPlayerPanel" 
+			shortcut="p" 
+			show="right" 
+			x="0" 
+			y="0"
+			modal="false">
+				<remote id="main_video" x="100" y="80" width="480" height="360" />
+		</panel>
+		<panel 
+			name="Notification Panel" 
+			id="notification" 
+			class="socialcastr.ui.panels.NotificationPanel" 
+			show="left" 
+			modal="true"
+			x="0" 
+			y="0" />
+	</panels>
+</settings>
